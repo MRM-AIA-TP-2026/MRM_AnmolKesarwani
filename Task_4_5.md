@@ -5,6 +5,6 @@ Step -4 git commit -m "Readme_2"
 Step -5 git push -u origin Temp  
 step -6 git merge Temp
 step-7 git add Task_4_5.md 
-git commit -m "Readme_2"
-Step-5 git push -u origin Master
+stepm-8 git commit -m "Readme_2"
+Step-9 git push -u origin Master
 
