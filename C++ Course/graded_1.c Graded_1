@@ -1,0 +1,117 @@
+/* Write a program that:
+
+    Declares a boolean variable called my_bool.
+    Initializes it to the boolean value of true.
+    Prints the value of my_bool.
+    Re-assigns my_bool to the value of test.
+    Prints the value of my_bool.
+*/
+
+int main(int argc, char** argv) {
+  
+  bool test = atoi((argv[1]));
+  
+  //add code below this line
+bool my_bool = true; 
+cout << my_bool << endl;
+my_bool = test; 
+cout << my_bool;
+
+
+  //add code above this line
+  
+  return 0;
+  
+}
+/*Write a program that:
+
+    Declares an int variable called my_int.
+    Initializes it to the value of first_num.
+    Prints the value of my_int.
+    Re-assigns it to the value of second_num.
+    Prints the value of my_int.
+    Re-assigns it to the value of third_num
+    Prints the value of my_int. */
+
+int main(int argc, char** argv) {
+  
+  int first_num = atoi((argv[1]));
+  int second_num = atoi((argv[2]));
+  int third_num = atoi((argv[3]));
+  
+  //add code below this line
+int my_int = first_num;
+cout << my_int << endl;
+my_int = second_num;
+cout << my_int << endl;
+my_int = third_num;
+cout << my_int << endl; 
+
+
+  //add code above this line
+  
+  return 0;
+  
+}
+/* Write a program that:
+
+    Prints the value of line1.
+    On a new line, prints the value of line2.
+    Make sure there is a new line after line2. */
+
+int main(int argc, char** argv) {
+  
+  string line1 = (argv[1]);
+  string line2 = (argv[2]);
+  
+  //add code below this line
+string line = line1;
+cout << line << endl;
+line = line2;
+cout<< line << endl;
+
+
+  //add code above this line
+  
+  return 0;
+  
+}
+/* Write a program that:
+
+    Declares a double variable called my_double.
+    Initializes my_double to the value of 3.14.
+    Prints the value of my_double.
+    Re-assigns my_double to the value of number.
+    Prints the value of my_double. */
+
+int main(int argc, char** argv) {
+  
+  double number = atof(argv[1]);
+  
+  //add code below this line
+double my_double = 3.14; 
+cout << my_double << endl;
+my_double = number;
+cout << my_double << endl;
+
+
+  //add code above this line
+  
+  return 0;
+  
+}
+/* Use two cout statements to write the following string:
+Okay, it is time to learn about operators. */
+int main(int argc, char** argv) {
+  
+  //add code below this line
+cout << "Okay, " << endl;
+cout << "it is time to learn about operatoras.";
+
+
+  //add code above this line
+  
+  return 0;
+  
+}
+
