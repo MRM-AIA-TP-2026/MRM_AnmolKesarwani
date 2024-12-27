@@ -1,0 +1,8 @@
+# Bill message definition
+string bill_number
+builtin_interfaces/Time timestamp
+string name_of_item
+int32 quantity
+float32 price
+float32 total
+float32 total_amount

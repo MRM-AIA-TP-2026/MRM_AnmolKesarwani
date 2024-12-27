@@ -1,0 +1,12 @@
+[31mCMake Error at CMakeLists.txt:11 (target_link_libraries):
+  Syntax error in cmake code at
+
+    /home/spacexpedition/cashier_system_ws/src/cashier_system/CMakeLists.txt:11
+
+  when parsing string
+
+    ${cashier_system
+
+  There is an unterminated variable reference.
+
+[0m

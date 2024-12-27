@@ -1,0 +1,2 @@
+Invoking command in '/home/spacexpedition/cashier_system_ws/build/cashier_system': /usr/bin/cmake /home/spacexpedition/cashier_system_ws/src/cashier_system -DCMAKE_INSTALL_PREFIX=/home/spacexpedition/cashier_system_ws/install/cashier_system
+Invoked command in '/home/spacexpedition/cashier_system_ws/build/cashier_system' returned '1': /usr/bin/cmake /home/spacexpedition/cashier_system_ws/src/cashier_system -DCMAKE_INSTALL_PREFIX=/home/spacexpedition/cashier_system_ws/install/cashier_system
